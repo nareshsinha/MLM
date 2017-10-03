@@ -4,9 +4,7 @@
 </title>
 <link rel="stylesheet" type="text/css" href="calender/calendar.css" >
 <style>
-ACRONYM {
-border-bottom: none;
-}
+ACRONYM {border-bottom: none;}
 BODY {font-family:Tahoma, Verdana, Sans-Serif;font-size:11px;padding:0px;margin:10px 0px;background-image:   url();}
 SELECT {background-color:#FFFFFF;font-family:Tahoma, Verdana, Sans-Serif;font-size:11px;padding:0px;margin:0px;}
 A.Nav:link, A.Nav:visited, A.Nav:active {color: white;text-decoration: none;font-size: 12px;}
@@ -30,13 +28,10 @@ DIV.copyright {font-size: 10px;font-family:Tahoma, Verdana, Geneva;color: black;
 .style1 {font-weight: bold}
 </style>
 </head>
-<body bgcolor="#fff">
-
+<body bgcolor="#fff"> 
 <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td width="100%" height="270" align="center" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="100%" align="center" valign="top"><br>
-        
-          
+    <td width="100%" align="center" valign="top"><br> 
           <table width="500" border="0" align="center" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF" height="300">
             <tr>
               <td align="left" valign="top"><table width="500" border="0" cellpadding="5" cellspacing="0" bgcolor="#5b9fbc" height="167">
@@ -51,8 +46,7 @@ DIV.copyright {font-size: 10px;font-family:Tahoma, Verdana, Geneva;color: black;
                             <p align="center">&nbsp;</p>
                             <p align="center"><strong><a href="/mlm/members">To Members Page</a></strong></p>
 							</td>
-                        </tr>
-                       
+                        </tr> 
                     </table></td>
                   </tr>
               </table></td>
