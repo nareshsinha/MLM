@@ -1,4 +1,4 @@
-<?
+<?php
  session_start();
  include('settings.inc');
  include('header.php');
@@ -405,4 +405,4 @@ if(empty($message1))
           </tr>
         </table>
 
-      <? include('footer.php'); ?>
+      <?php include('footer.php'); ?>
