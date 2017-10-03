@@ -3,11 +3,10 @@
 <title>
 </title>
 <link rel="stylesheet" type="text/css" href="calender/calendar.css" >
-
-
-
 <style>
-ACRONYM {border-bottom: none;}
+ACRONYM {
+border-bottom: none;
+}
 BODY {font-family:Tahoma, Verdana, Sans-Serif;font-size:11px;padding:0px;margin:10px 0px;background-image:   url();}
 SELECT {background-color:#FFFFFF;font-family:Tahoma, Verdana, Sans-Serif;font-size:11px;padding:0px;margin:0px;}
 A.Nav:link, A.Nav:visited, A.Nav:active {color: white;text-decoration: none;font-size: 12px;}
